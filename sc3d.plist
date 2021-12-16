@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://drive.google.com/u/0/uc?export=download&confirm=J30O&id=1-6gD5La_i7zzo3o6YIdxnVNk0Cy90E-Q</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>https://doc-04-bo-docs.googleusercontent.com/docs/securesc/qp9pnmnjkel93ka3erbcfnl7uabc0kml/ufpmm1qfoq6mc9op80d2k44qm5d0r57l/1639628400000/04268908115456167133/10640162564972115878/1DLhN-CyVX4olYeJDtn5k_BNx5EdWdENM?e=download&authuser=0&nonce=27fldjaa0l2c6&user=10640162564972115878&hash=nuvahcb6g1tsj4tod28blm30nntumrir</string>
+					<key>url</key>
+					<string></string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>https://doc-04-bo-docs.googleusercontent.com/docs/securesc/qp9pnmnjkel93ka3erbcfnl7uabc0kml/ufpmm1qfoq6mc9op80d2k44qm5d0r57l/1639628400000/04268908115456167133/10640162564972115878/1DLhN-CyVX4olYeJDtn5k_BNx5EdWdENM?e=download&authuser=0&nonce=27fldjaa0l2c6&user=10640162564972115878&hash=nuvahcb6g1tsj4tod28blm30nntumrir</string>
+					<key>url</key>
+					<string></string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.zakg.scaryteacher3d</string>
+				<key>bundle-version</key>
+				<string>1</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>Scary Teacher 3D</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
